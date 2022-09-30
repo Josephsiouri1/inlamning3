@@ -16,4 +16,6 @@ if ($anvandarnamn && $filen) {
    echo "filen saknas!";
  }
 
+echo "<a href='localhost/uppdaterat_inlamning3/formular.php'>Tillbaka till inloggningen</a>";
+
 ?> 
